@@ -1,2 +1,4 @@
-# go-pg_example
-github.com/go-pg/pg/
+# github.com/go-pg/pg/ simple example
+- how to connect
+- how to create table (if not exist)
+- etc
